@@ -10,3 +10,4 @@
 - [ ] Mastering git
 - [ ] Care and feeding of developers
 - [ ] Mastering git
+- [ ] Debugging with the Grace Hopper Method
